@@ -3,16 +3,18 @@ var express = require('express');
 var app = express();
 var path = require('path');
 
+var routes = require('./api/routes');
+
 app.set('port', 8080);
+
+app.use(function (req, res, next) {
+    console.log(req.method, req.url);
+    next();
+});
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/pokemon', function (req,res) {
-    console.log('Get the json');
-    res
-        .status(200)
-        .json({"jsonData": true});
-});
+app.use('/api', routes);
 
 app.get('/file', function (req, res) {
     console.log('Get the file');
