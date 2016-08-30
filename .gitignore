@@ -3,3 +3,4 @@ node_modules/
 *~
 public/img/
 nodemon.json
+npm-debug.log
