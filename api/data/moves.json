@@ -1,0 +1,985 @@
+[{
+  "MoveId": 0,
+  "name": "Acid",
+  "type": "poison",
+  "category": "fast",
+  "power": 10,
+  "seconds": 1.05,
+  "energy": 7
+}, {
+  "MoveId": 1,
+  "name": "Aerial Ace",
+  "type": "flying",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.9,
+  "energy": -25
+}, {
+  "MoveId": 2,
+  "name": "Air Cutter",
+  "type": "flying",
+  "category": "charge",
+  "power": 30,
+  "seconds": 3.3,
+  "energy": -25
+}, {
+  "MoveId": 3,
+  "name": "Ancient Power",
+  "type": "rock",
+  "category": "charge",
+  "power": 35,
+  "seconds": 3.6,
+  "energy": -25
+}, {
+  "MoveId": 4,
+  "name": "Aqua Jet",
+  "type": "water",
+  "category": "charge",
+  "power": 25,
+  "seconds": 2.35,
+  "energy": -20
+}, {
+  "MoveId": 5,
+  "name": "Aqua Tail",
+  "type": "water",
+  "category": "charge",
+  "power": 45,
+  "seconds": 2.35,
+  "energy": -50
+}, {
+  "MoveId": 6,
+  "name": "Bite",
+  "type": "dark",
+  "category": "fast",
+  "power": 6,
+  "seconds": 0.5,
+  "energy": 7
+}, {
+  "MoveId": 7,
+  "name": "Blizzard",
+  "type": "ice",
+  "category": "charge",
+  "power": 100,
+  "seconds": 3.9,
+  "energy": -100
+}, {
+  "MoveId": 8,
+  "name": "Body Slam",
+  "type": "normal",
+  "category": "charge",
+  "power": 40,
+  "seconds": 1.56,
+  "energy": -50
+}, {
+  "MoveId": 9,
+  "name": "Bone Club",
+  "type": "ground",
+  "category": "charge",
+  "power": 25,
+  "seconds": 1.6,
+  "energy": -25
+}, {
+  "MoveId": 10,
+  "name": "Brick Break",
+  "type": "fighting",
+  "category": "charge",
+  "power": 30,
+  "seconds": 1.6,
+  "energy": -33
+}, {
+  "MoveId": 11,
+  "name": "Brine",
+  "type": "water",
+  "category": "charge",
+  "power": 25,
+  "seconds": 2.4,
+  "energy": -25
+}, {
+  "MoveId": 12,
+  "name": "Bubble",
+  "type": "water",
+  "category": "fast",
+  "power": 25,
+  "seconds": 2.3,
+  "energy": 15
+}, {
+  "MoveId": 13,
+  "name": "Bubble Beam",
+  "type": "water",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.9,
+  "energy": -25
+}, {
+  "MoveId": 14,
+  "name": "Bug Bite",
+  "type": "bug",
+  "category": "fast",
+  "power": 5,
+  "seconds": 0.45,
+  "energy": 7
+}, {
+  "MoveId": 15,
+  "name": "Bug Buzz",
+  "type": "bug",
+  "category": "charge",
+  "power": 75,
+  "seconds": 4.25,
+  "energy": -50
+}, {
+  "MoveId": 16,
+  "name": "Bulldoze",
+  "type": "ground",
+  "category": "charge",
+  "power": 35,
+  "seconds": 3.4,
+  "energy": -25
+}, {
+  "MoveId": 17,
+  "name": "Bullet Punch",
+  "type": "steel",
+  "category": "fast",
+  "power": 10,
+  "seconds": 1.2,
+  "energy": 7
+}, {
+  "MoveId": 18,
+  "name": "Confusion",
+  "type": "psychic",
+  "category": "fast",
+  "power": 15,
+  "seconds": 1.51,
+  "energy": 7
+}, {
+  "MoveId": 19,
+  "name": "Cross Chop",
+  "type": "fighting",
+  "category": "charge",
+  "power": 60,
+  "seconds": 2,
+  "energy": -100
+}, {
+  "MoveId": 20,
+  "name": "Cross Poison",
+  "type": "poison",
+  "category": "charge",
+  "power": 25,
+  "seconds": 1.5,
+  "energy": -25
+}, {
+  "MoveId": 21,
+  "name": "Dark Pulse",
+  "type": "dark",
+  "category": "charge",
+  "power": 45,
+  "seconds": 3.5,
+  "energy": -33
+}, {
+  "MoveId": 22,
+  "name": "Dazzling Gleam",
+  "type": "fairy",
+  "category": "charge",
+  "power": 55,
+  "seconds": 4.2,
+  "energy": -33
+}, {
+  "MoveId": 23,
+  "name": "Dig",
+  "type": "ground",
+  "category": "charge",
+  "power": 70,
+  "seconds": 5.8,
+  "energy": -33
+}, {
+  "MoveId": 24,
+  "name": "Disarming Voice",
+  "type": "fairy",
+  "category": "charge",
+  "power": 25,
+  "seconds": 3.9,
+  "energy": -20
+}, {
+  "MoveId": 25,
+  "name": "Discharge",
+  "type": "electric",
+  "category": "charge",
+  "power": 35,
+  "seconds": 2.5,
+  "energy": -33
+}, {
+  "MoveId": 26,
+  "name": "Dragon Breath",
+  "type": "dragon",
+  "category": "fast",
+  "power": 6,
+  "seconds": 0.5,
+  "energy": 7
+}, {
+  "MoveId": 27,
+  "name": "Dragon Claw",
+  "type": "dragon",
+  "category": "charge",
+  "power": 35,
+  "seconds": 1.6,
+  "energy": -50
+}, {
+  "MoveId": 28,
+  "name": "Dragon Pulse",
+  "type": "dragon",
+  "category": "charge",
+  "power": 65,
+  "seconds": 3.6,
+  "energy": -50
+}, {
+  "MoveId": 29,
+  "name": "Draining Kiss",
+  "type": "fairy",
+  "category": "charge",
+  "power": 25,
+  "seconds": 2.8,
+  "energy": -20
+}, {
+  "MoveId": 30,
+  "name": "Drill Peck",
+  "type": "flying",
+  "category": "charge",
+  "power": 40,
+  "seconds": 2.7,
+  "energy": -33
+}, {
+  "MoveId": 31,
+  "name": "Drill Run",
+  "type": "ground",
+  "category": "charge",
+  "power": 50,
+  "seconds": 3.4,
+  "energy": -33
+}, {
+  "MoveId": 32,
+  "name": "Earthquake",
+  "type": "ground",
+  "category": "charge",
+  "power": 100,
+  "seconds": 4.2,
+  "energy": -100
+}, {
+  "MoveId": 33,
+  "name": "Ember",
+  "type": "fire",
+  "category": "fast",
+  "power": 10,
+  "seconds": 1.05,
+  "energy": 7
+}, {
+  "MoveId": 34,
+  "name": "Feint Attack",
+  "type": "dark",
+  "category": "fast",
+  "power": 12,
+  "seconds": 1.04,
+  "energy": 7
+}, {
+  "MoveId": 35,
+  "name": "Fire Blast",
+  "type": "fire",
+  "category": "charge",
+  "power": 100,
+  "seconds": 4.1,
+  "energy": -100
+}, {
+  "MoveId": 36,
+  "name": "Fire Fang",
+  "type": "fire",
+  "category": "fast",
+  "power": 10,
+  "seconds": 0.84,
+  "energy": 4
+}, {
+  "MoveId": 37,
+  "name": "Fire Punch",
+  "type": "fire",
+  "category": "charge",
+  "power": 40,
+  "seconds": 2.8,
+  "energy": -33
+}, {
+  "MoveId": 38,
+  "name": "Flame Burst",
+  "type": "fire",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.1,
+  "energy": -25
+}, {
+  "MoveId": 39,
+  "name": "Flame Charge",
+  "type": "fire",
+  "category": "charge",
+  "power": 25,
+  "seconds": 3.1,
+  "energy": -20
+}, {
+  "MoveId": 40,
+  "name": "Flame Wheel",
+  "type": "fire",
+  "category": "charge",
+  "power": 40,
+  "seconds": 4.6,
+  "energy": -25
+}, {
+  "MoveId": 41,
+  "name": "Flamethrower",
+  "type": "fire",
+  "category": "charge",
+  "power": 55,
+  "seconds": 2.9,
+  "energy": -50
+}, {
+  "MoveId": 42,
+  "name": "Flash Cannon",
+  "type": "steel",
+  "category": "charge",
+  "power": 60,
+  "seconds": 3.9,
+  "energy": -33
+}, {
+  "MoveId": 43,
+  "name": "Frost Breath",
+  "type": "ice",
+  "category": "fast",
+  "power": 9,
+  "seconds": 0.81,
+  "energy": 7
+}, {
+  "MoveId": 44,
+  "name": "Fury Cutter",
+  "type": "bug",
+  "category": "fast",
+  "power": 3,
+  "seconds": 0.4,
+  "energy": 12
+}, {
+  "MoveId": 45,
+  "name": "Gunk Shot",
+  "type": "poison",
+  "category": "charge",
+  "power": 65,
+  "seconds": 3,
+  "energy": -100
+}, {
+  "MoveId": 46,
+  "name": "Heat Wave",
+  "type": "fire",
+  "category": "charge",
+  "power": 80,
+  "seconds": 3.8,
+  "energy": -100
+}, {
+  "MoveId": 47,
+  "name": "Horn Attack",
+  "type": "normal",
+  "category": "charge",
+  "power": 25,
+  "seconds": 2.2,
+  "energy": -25
+}, {
+  "MoveId": 48,
+  "name": "Hurricane",
+  "type": "flying",
+  "category": "charge",
+  "power": 80,
+  "seconds": 3.2,
+  "energy": -100
+}, {
+  "MoveId": 49,
+  "name": "Hydro Pump",
+  "type": "water",
+  "category": "charge",
+  "power": 90,
+  "seconds": 3.8,
+  "energy": -100
+}, {
+  "MoveId": 50,
+  "name": "Hyper Beam",
+  "type": "normal",
+  "category": "charge",
+  "power": 120,
+  "seconds": 5,
+  "energy": -100
+}, {
+  "MoveId": 51,
+  "name": "Hyper Fang",
+  "type": "normal",
+  "category": "charge",
+  "power": 35,
+  "seconds": 2.1,
+  "energy": -33
+}, {
+  "MoveId": 52,
+  "name": "Ice Beam",
+  "type": "ice",
+  "category": "charge",
+  "power": 65,
+  "seconds": 3.65,
+  "energy": -50
+}, {
+  "MoveId": 53,
+  "name": "Ice Punch",
+  "type": "ice",
+  "category": "charge",
+  "power": 45,
+  "seconds": 3.5,
+  "energy": -33
+}, {
+  "MoveId": 54,
+  "name": "Ice Shard",
+  "type": "ice",
+  "category": "fast",
+  "power": 15,
+  "seconds": 1.4,
+  "energy": 7
+}, {
+  "MoveId": 55,
+  "name": "Icy Wind",
+  "type": "ice",
+  "category": "charge",
+  "power": 25,
+  "seconds": 3.8,
+  "energy": -20
+}, {
+  "MoveId": 56,
+  "name": "Iron Head",
+  "type": "steel",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2,
+  "energy": -33
+}, {
+  "MoveId": 57,
+  "name": "Karate Chop",
+  "type": "fighting",
+  "category": "fast",
+  "power": 6,
+  "seconds": 0.8,
+  "energy": 7
+}, {
+  "MoveId": 58,
+  "name": "Leaf Blade",
+  "type": "grass",
+  "category": "charge",
+  "power": 55,
+  "seconds": 2.8,
+  "energy": -50
+}, {
+  "MoveId": 59,
+  "name": "Lick",
+  "type": "ghost",
+  "category": "fast",
+  "power": 5,
+  "seconds": 0.5,
+  "energy": 7
+}, {
+  "MoveId": 60,
+  "name": "Low Kick",
+  "type": "fighting",
+  "category": "fast",
+  "power": 5,
+  "seconds": 0.5,
+  "energy": 7
+}, {
+  "MoveId": 61,
+  "name": "Low Sweep",
+  "type": "fighting",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.25,
+  "energy": -25
+}, {
+  "MoveId": 62,
+  "name": "Magnet Bomb",
+  "type": "steel",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.8,
+  "energy": -25
+}, {
+  "MoveId": 63,
+  "name": "Megahorn",
+  "type": "bug",
+  "category": "charge",
+  "power": 80,
+  "seconds": 3.2,
+  "energy": -100
+}, {
+  "MoveId": 64,
+  "name": "Metal Claw",
+  "type": "steel",
+  "category": "fast",
+  "power": 8,
+  "seconds": 0.63,
+  "energy": 7
+}, {
+  "MoveId": 65,
+  "name": "Moonblast",
+  "type": "fairy",
+  "category": "charge",
+  "power": 85,
+  "seconds": 4.1,
+  "energy": -100
+}, {
+  "MoveId": 66,
+  "name": "Mud Bomb",
+  "type": "ground",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.6,
+  "energy": -25
+}, {
+  "MoveId": 67,
+  "name": "Mud Shot",
+  "type": "ground",
+  "category": "fast",
+  "power": 6,
+  "seconds": 0.55,
+  "energy": 7
+}, {
+  "MoveId": 68,
+  "name": "Mud Slap",
+  "type": "ground",
+  "category": "fast",
+  "power": 15,
+  "seconds": 1.35,
+  "energy": 7
+}, {
+  "MoveId": 69,
+  "name": "Night Slash",
+  "type": "dark",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.7,
+  "energy": -25
+}, {
+  "MoveId": 70,
+  "name": "Ominous Wind",
+  "type": "ghost",
+  "category": "charge",
+  "power": 30,
+  "seconds": 3.1,
+  "energy": -25
+}, {
+  "MoveId": 71,
+  "name": "Peck",
+  "type": "flying",
+  "category": "fast",
+  "power": 10,
+  "seconds": 1.15,
+  "energy": 10
+}, {
+  "MoveId": 72,
+  "name": "Petal Blizzard",
+  "type": "grass",
+  "category": "charge",
+  "power": 65,
+  "seconds": 3.2,
+  "energy": -50
+}, {
+  "MoveId": 73,
+  "name": "Play Rough",
+  "type": "fairy",
+  "category": "charge",
+  "power": 55,
+  "seconds": 2.9,
+  "energy": -50
+}, {
+  "MoveId": 74,
+  "name": "Poison Fang",
+  "type": "poison",
+  "category": "charge",
+  "power": 25,
+  "seconds": 2.4,
+  "energy": -20
+}, {
+  "MoveId": 75,
+  "name": "Poison Jab",
+  "type": "poison",
+  "category": "fast",
+  "power": 12,
+  "seconds": 1.05,
+  "energy": 7
+}, {
+  "MoveId": 76,
+  "name": "Poison Sting",
+  "type": "poison",
+  "category": "fast",
+  "power": 6,
+  "seconds": 0.58,
+  "energy": 4
+}, {
+  "MoveId": 77,
+  "name": "Pound",
+  "type": "normal",
+  "category": "fast",
+  "power": 7,
+  "seconds": 0.54,
+  "energy": 7
+}, {
+  "MoveId": 78,
+  "name": "Power Gem",
+  "type": "rock",
+  "category": "charge",
+  "power": 40,
+  "seconds": 2.9,
+  "energy": -33
+}, {
+  "MoveId": 79,
+  "name": "Power Whip",
+  "type": "grass",
+  "category": "charge",
+  "power": 70,
+  "seconds": 2.8,
+  "energy": -100
+}, {
+  "MoveId": 80,
+  "name": "Psybeam",
+  "type": "psychic",
+  "category": "charge",
+  "power": 40,
+  "seconds": 3.8,
+  "energy": -25
+}, {
+  "MoveId": 81,
+  "name": "Psychic",
+  "type": "psychic",
+  "category": "charge",
+  "power": 55,
+  "seconds": 2.8,
+  "energy": -50
+}, {
+  "MoveId": 82,
+  "name": "Psycho Cut",
+  "type": "psychic",
+  "category": "fast",
+  "power": 7,
+  "seconds": 0.57,
+  "energy": 7
+}, {
+  "MoveId": 83,
+  "name": "Psyshock",
+  "type": "psychic",
+  "category": "charge",
+  "power": 40,
+  "seconds": 2.7,
+  "energy": -33
+}, {
+  "MoveId": 84,
+  "name": "Quick Attack",
+  "type": "normal",
+  "category": "fast",
+  "power": 10,
+  "seconds": 1.33,
+  "energy": 7
+}, {
+  "MoveId": 85,
+  "name": "Razor Leaf",
+  "type": "Grass",
+  "category": "fast",
+  "power": 15,
+  "seconds": 1.45,
+  "energy": 7
+}, {
+  "MoveId": 86,
+  "name": "Rock Slide",
+  "type": "rock",
+  "category": "charge",
+  "power": 50,
+  "seconds": 3.2,
+  "energy": -33
+}, {
+  "MoveId": 87,
+  "name": "Rock Smash",
+  "type": "fighting",
+  "category": "fast",
+  "power": 15,
+  "seconds": 1.41,
+  "energy": 7
+}, {
+  "MoveId": 88,
+  "name": "Rock Throw",
+  "type": "rock",
+  "category": "fast",
+  "power": 12,
+  "seconds": 1.36,
+  "energy": 7
+}, {
+  "MoveId": 89,
+  "name": "Rock Tomb",
+  "type": "rock",
+  "category": "charge",
+  "power": 30,
+  "seconds": 3.4,
+  "energy": -25
+}, {
+  "MoveId": 90,
+  "name": "Scald",
+  "type": "water",
+  "category": "charge",
+  "power": 55,
+  "seconds": 4,
+  "energy": -33
+}, {
+  "MoveId": 91,
+  "name": "Scratch",
+  "type": "normal",
+  "category": "fast",
+  "power": 6,
+  "seconds": 0.5,
+  "energy": 7
+}, {
+  "MoveId": 92,
+  "name": "Seed Bomb",
+  "type": "grass",
+  "category": "charge",
+  "power": 40,
+  "seconds": 2.4,
+  "energy": -33
+}, {
+  "MoveId": 93,
+  "name": "Shadow Ball",
+  "type": "ghost",
+  "category": "charge",
+  "power": 45,
+  "seconds": 3.08,
+  "energy": -33
+}, {
+  "MoveId": 94,
+  "name": "Shadow Claw",
+  "type": "ghost",
+  "category": "fast",
+  "power": 11,
+  "seconds": 0.95,
+  "energy": 7
+}, {
+  "MoveId": 95,
+  "name": "Signal Beam",
+  "type": "bug",
+  "category": "charge",
+  "power": 45,
+  "seconds": 3.1,
+  "energy": -33
+}, {
+  "MoveId": 96,
+  "name": "Sludge",
+  "type": "poison",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.6,
+  "energy": -25
+}, {
+  "MoveId": 97,
+  "name": "Sludge Bomb",
+  "type": "poison",
+  "category": "charge",
+  "power": 55,
+  "seconds": 2.6,
+  "energy": -50
+}, {
+  "MoveId": 98,
+  "name": "Sludge Wave",
+  "type": "poison",
+  "category": "charge",
+  "power": 70,
+  "seconds": 3.4,
+  "energy": -100
+}, {
+  "MoveId": 99,
+  "name": "Solar Beam",
+  "type": "grass",
+  "category": "charge",
+  "power": 120,
+  "seconds": 4.9,
+  "energy": -100
+}, {
+  "MoveId": 100,
+  "name": "Spark",
+  "type": "electric",
+  "category": "fast",
+  "power": 7,
+  "seconds": 0.7,
+  "energy": 4
+}, {
+  "MoveId": 101,
+  "name": "Splash",
+  "type": "water",
+  "category": "fast",
+  "power": 0,
+  "seconds": 1.23,
+  "energy": 7
+}, {
+  "MoveId": 102,
+  "name": "Steel Wing",
+  "type": "steel",
+  "category": "fast",
+  "power": 15,
+  "seconds": 1.33,
+  "energy": 4
+}, {
+  "MoveId": 103,
+  "name": "Stomp",
+  "type": "normal",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.1,
+  "energy": -25
+}, {
+  "MoveId": 104,
+  "name": "Stone Edge",
+  "type": "rock",
+  "category": "charge",
+  "power": 80,
+  "seconds": 3.1,
+  "energy": -100
+}, {
+  "MoveId": 105,
+  "name": "Struggle",
+  "type": "bug",
+  "category": "charge",
+  "power": 15,
+  "seconds": 1.7,
+  "energy": -20
+}, {
+  "MoveId": 106,
+  "name": "Submission",
+  "type": "fighting",
+  "category": "charge",
+  "power": 30,
+  "seconds": 2.1,
+  "energy": -33
+}, {
+  "MoveId": 107,
+  "name": "Sucker Punch",
+  "type": "dark",
+  "category": "fast",
+  "power": 7,
+  "seconds": 0.7,
+  "energy": 4
+}, {
+  "MoveId": 108,
+  "name": "Swift",
+  "type": "normal",
+  "category": "charge",
+  "power": 30,
+  "seconds": 3,
+  "energy": -25
+}, {
+  "MoveId": 109,
+  "name": "Tackle",
+  "type": "normal",
+  "category": "fast",
+  "power": 12,
+  "seconds": 1.1,
+  "energy": 7
+}, {
+  "MoveId": 110,
+  "name": "Thunder",
+  "type": "elelctric",
+  "category": "charge",
+  "power": 100,
+  "seconds": 4.3,
+  "energy": -100
+}, {
+  "MoveId": 111,
+  "name": "Thunder Punch",
+  "type": "electric",
+  "category": "charge",
+  "power": 40,
+  "seconds": 2.4,
+  "energy": -33
+}, {
+  "MoveId": 112,
+  "name": "Thunder Shock",
+  "type": "electric",
+  "category": "fast",
+  "power": 5,
+  "seconds": 0.6,
+  "energy": 7
+}, {
+  "MoveId": 113,
+  "name": "Thunderbolt",
+  "type": "electric",
+  "category": "charge",
+  "power": 55,
+  "seconds": 2.7,
+  "energy": -50
+}, {
+  "MoveId": 114,
+  "name": "Twister",
+  "type": "dragon",
+  "category": "charge",
+  "power": 25,
+  "seconds": 2.7,
+  "energy": -20
+}, {
+  "MoveId": 115,
+  "name": "vice Grip",
+  "type": "normal",
+  "category": "charge",
+  "power": 25,
+  "seconds": 2.1,
+  "energy": -20
+}, {
+  "MoveId": 116,
+  "name": "Vine Whip",
+  "type": "grass",
+  "category": "fast",
+  "power": 7,
+  "seconds": 0.65,
+  "energy": 7
+}, {
+  "MoveId": 117,
+  "name": "Water Gun",
+  "type": "water",
+  "category": "fast",
+  "power": 6,
+  "seconds": 0.5,
+  "energy": 7
+}, {
+  "MoveId": 118,
+  "name": "Water Pulse",
+  "type": "water",
+  "category": "charge",
+  "power": 35,
+  "seconds": 3.3,
+  "energy": -25
+}, {
+  "MoveId": 119,
+  "name": "Wing Attack",
+  "type": "flying",
+  "category": "fast",
+  "power": 9,
+  "seconds": 0.75,
+  "energy": 7
+}, {
+  "MoveId": 120,
+  "name": "Wrap",
+  "type": "normal",
+  "category": "charge",
+  "power": 25,
+  "seconds": 4,
+  "energy": -20
+}, {
+  "MoveId": 121,
+  "name": "X-Scissor",
+  "type": "bug",
+  "category": "charge",
+  "power": 35,
+  "seconds": 2.1,
+  "energy": -33
+}, {
+  "MoveId": 122,
+  "name": "Zen Headbutt",
+  "type": "psychic",
+  "category": "fast",
+  "power": 12,
+  "seconds": 1.05,
+  "energy": 4
+}]

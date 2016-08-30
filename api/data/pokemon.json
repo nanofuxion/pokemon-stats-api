@@ -1,5 +1,5 @@
 [{
-  "id": 1,
+  "pokemonId": 1,
   "pokedex": "#001",
   "evolution": {
     "stage": 0,
@@ -22,7 +22,7 @@
   },
   "flavor-text": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
 }, {
-  "id": 2,
+  "pokemonId": 2,
   "pokedex": "#002",
   "evolution": {
     "stage": 1,
@@ -45,7 +45,7 @@
   },
   "flavor-text": "There is a bud on this Pokémon's back. To support its kg, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon."
 }, {
-  "id": 3,
+  "pokemonId": 3,
   "pokedex": "#003",
   "evolution": {
     "stage": 2,
@@ -68,7 +68,7 @@
   },
   "flavor-text": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people."
 }, {
-  "id": 4,
+  "pokemonId": 4,
   "pokedex": "#004",
   "evolution": {
     "stage": 0,
@@ -91,7 +91,7 @@
   },
   "flavor-text": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely."
 }, {
-  "id": 5,
+  "pokemonId": 5,
   "pokedex": "#005",
   "evolution": {
     "stage": 1,
@@ -114,7 +114,7 @@
   },
   "flavor-text": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
 }, {
-  "id": 6,
+  "pokemonId": 6,
   "pokedex": "#006",
   "evolution": {
     "stage": 2,
@@ -137,7 +137,7 @@
   },
   "flavor-text": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself."
 }, {
-  "id": 7,
+  "pokemonId": 7,
   "pokedex": "#007",
   "evolution": {
     "stage": 0,
@@ -160,7 +160,7 @@
   },
   "flavor-text": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
 }, {
-  "id": 8,
+  "pokemonId": 8,
   "pokedex": "#008",
   "evolution": {
     "stage": 1,
@@ -183,7 +183,7 @@
   },
   "flavor-text": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler."
 }, {
-  "id": 9,
+  "pokemonId": 9,
   "pokedex": "#009",
   "evolution": {
     "stage": 2,
@@ -206,7 +206,7 @@
   },
   "flavor-text": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet."
 }, {
-  "id": 10,
+  "pokemonId": 10,
   "pokedex": "#010",
   "evolution": {
     "stage": 0,
@@ -229,7 +229,7 @@
   },
   "flavor-text": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
 }, {
-  "id": 11,
+  "pokemonId": 11,
   "pokedex": "#011",
   "evolution": {
     "stage": 1,
@@ -252,7 +252,7 @@
   },
   "flavor-text": "The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell."
 }, {
-  "id": 12,
+  "pokemonId": 12,
   "pokedex": "#012",
   "evolution": {
     "stage": 2,
@@ -275,7 +275,7 @@
   },
   "flavor-text": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest."
 }, {
-  "id": 13,
+  "pokemonId": 13,
   "pokedex": "#013",
   "evolution": {
     "stage": 0,
@@ -298,7 +298,7 @@
   },
   "flavor-text": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose)."
 }, {
-  "id": 14,
+  "pokemonId": 14,
   "pokedex": "#014",
   "evolution": {
     "stage": 1,
@@ -321,7 +321,7 @@
   },
   "flavor-text": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
 }, {
-  "id": 15,
+  "pokemonId": 15,
   "pokedex": "#015",
   "evolution": {
     "stage": 2,
@@ -344,7 +344,7 @@
   },
   "flavor-text": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm."
 }, {
-  "id": 16,
+  "pokemonId": 16,
   "pokedex": "#016",
   "evolution": {
     "stage": 0,
@@ -367,7 +367,7 @@
   },
   "flavor-text": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings."
 }, {
-  "id": 17,
+  "pokemonId": 17,
   "pokedex": "#017",
   "evolution": {
     "stage": 1,
@@ -390,7 +390,7 @@
   },
   "flavor-text": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
 }, {
-  "id": 18,
+  "pokemonId": 18,
   "pokedex": "#018",
   "evolution": {
     "stage": 2,
@@ -413,7 +413,7 @@
   },
   "flavor-text": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon."
 }, {
-  "id": 19,
+  "pokemonId": 19,
   "pokedex": "#019",
   "evolution": {
     "stage": 0,
@@ -436,7 +436,7 @@
   },
   "flavor-text": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere."
 }, {
-  "id": 20,
+  "pokemonId": 20,
   "pokedex": "#020",
   "evolution": {
     "stage": 1,
@@ -459,7 +459,7 @@
   },
   "flavor-text": "Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses."
 }, {
-  "id": 21,
+  "pokemonId": 21,
   "pokedex": "#021",
   "evolution": {
     "stage": 0,
@@ -482,7 +482,7 @@
   },
   "flavor-text": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger."
 }, {
-  "id": 22,
+  "pokemonId": 22,
   "pokedex": "#022",
   "evolution": {
     "stage": 1,
@@ -505,7 +505,7 @@
   },
   "flavor-text": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey."
 }, {
-  "id": 23,
+  "pokemonId": 23,
   "pokedex": "#023",
   "evolution": {
     "stage": 0,
@@ -528,7 +528,7 @@
   },
   "flavor-text": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head."
 }, {
-  "id": 24,
+  "pokemonId": 24,
   "pokedex": "#024",
   "evolution": {
     "stage": 1,
@@ -551,7 +551,7 @@
   },
   "flavor-text": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible."
 }, {
-  "id": 25,
+  "pokemonId": 25,
   "pokedex": "#025",
   "evolution": {
     "stage": 0,
@@ -574,7 +574,7 @@
   },
   "flavor-text": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge."
 }, {
-  "id": 26,
+  "pokemonId": 26,
   "pokedex": "#026",
   "evolution": {
     "stage": 1,
@@ -597,7 +597,7 @@
   },
   "flavor-text": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest."
 }, {
-  "id": 27,
+  "pokemonId": 27,
   "pokedex": "#027",
   "evolution": {
     "stage": 0,
@@ -620,7 +620,7 @@
   },
   "flavor-text": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies."
 }, {
-  "id": 28,
+  "pokemonId": 28,
   "pokedex": "#028",
   "evolution": {
     "stage": 1,
@@ -643,7 +643,7 @@
   },
   "flavor-text": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones."
 }, {
-  "id": 29,
+  "pokemonId": 29,
   "pokedex": "#029",
   "evolution": {
     "stage": 0,
@@ -666,7 +666,7 @@
   },
   "flavor-text": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn."
 }, {
-  "id": 30,
+  "pokemonId": 30,
   "pokedex": "#030",
   "evolution": {
     "stage": 1,
@@ -689,7 +689,7 @@
   },
   "flavor-text": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others."
 }, {
-  "id": 31,
+  "pokemonId": 31,
   "pokedex": "#031",
   "evolution": {
     "stage": 2,
@@ -712,7 +712,7 @@
   },
   "flavor-text": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young."
 }, {
-  "id": 32,
+  "pokemonId": 32,
   "pokedex": "#032",
   "evolution": {
     "stage": 0,
@@ -735,7 +735,7 @@
   },
   "flavor-text": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice."
 }, {
-  "id": 33,
+  "pokemonId": 33,
   "pokedex": "033",
   "evolution": {
     "stage": 1,
@@ -758,7 +758,7 @@
   },
   "flavor-text": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might."
 }, {
-  "id": 34,
+  "pokemonId": 34,
   "pokedex": "#034",
   "evolution": {
     "stage": 2,
@@ -781,7 +781,7 @@
   },
   "flavor-text": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it."
 }, {
-  "id": 35,
+  "pokemonId": 35,
   "pokedex": "#035",
   "evolution": {
     "stage": 0,
@@ -804,7 +804,7 @@
   },
   "flavor-text": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other."
 }, {
-  "id": 36,
+  "pokemonId": 36,
   "pokedex": "#036",
   "evolution": {
     "stage": 1,
@@ -827,7 +827,7 @@
   },
   "flavor-text": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step even lets it walk on water. It is known to take strolls on lakes on quiet, moonlit nights."
 }, {
-  "id": 37,
+  "pokemonId": 37,
   "pokedex": "#037",
   "evolution": {
     "stage": 0,
@@ -850,7 +850,7 @@
   },
   "flavor-text": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its trainer. The six tails become magnificently curled."
 }, {
-  "id": 38,
+  "pokemonId": 38,
   "pokedex": "#038",
   "evolution": {
     "stage": 1,
@@ -873,7 +873,7 @@
   },
   "flavor-text": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for one thousand years."
 }, {
-  "id": 39,
+  "pokemonId": 39,
   "pokedex": "#039",
   "evolution": {
     "stage": 0,
@@ -896,7 +896,7 @@
   },
   "flavor-text": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy."
 }, {
-  "id": 40,
+  "pokemonId": 40,
   "pokedex": "#040",
   "evolution": {
     "stage": 1,
@@ -919,7 +919,7 @@
   },
   "flavor-text": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away."
 }, {
-  "id": 41,
+  "pokemonId": 41,
   "pokedex": "#041",
   "evolution": {
     "stage": 0,
@@ -942,7 +942,7 @@
   },
   "flavor-text": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned."
 }, {
-  "id": 42,
+  "pokemonId": 42,
   "pokedex": "#042",
   "evolution": {
     "stage": 1,
@@ -965,7 +965,7 @@
   },
   "flavor-text": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood."
 }, {
-  "id": 43,
+  "pokemonId": 43,
   "pokedex": "#043",
   "evolution": {
     "stage": 0,
@@ -988,7 +988,7 @@
   },
   "flavor-text": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become."
 }, {
-  "id": 44,
+  "pokemonId": 44,
   "pokedex": "#044",
   "evolution": {
     "stage": 1,
@@ -1011,7 +1011,7 @@
   },
   "flavor-text": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma."
 }, {
-  "id": 45,
+  "pokemonId": 45,
   "pokedex": "#045",
   "evolution": {
     "stage": 2,
@@ -1034,7 +1034,7 @@
   },
   "flavor-text": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be."
 }, {
-  "id": 46,
+  "pokemonId": 46,
   "pokedex": "#046",
   "evolution": {
     "stage": 0,
@@ -1057,7 +1057,7 @@
   },
   "flavor-text": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life."
 }, {
-  "id": 47,
+  "pokemonId": 47,
   "pokedex": "#047",
   "evolution": {
     "stage": 1,
@@ -1080,7 +1080,7 @@
   },
   "flavor-text": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once."
 }, {
-  "id": 48,
+  "pokemonId": 48,
   "pokedex": "#048",
   "evolution": {
     "stage": 0,
@@ -1103,7 +1103,7 @@
   },
   "flavor-text": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey."
 }, {
-  "id":49,
+  "pokemonId":49,
   "pokedex": "#049",
   "evolution": {
     "stage": 1,
@@ -1126,7 +1126,7 @@
   },
   "flavor-text": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness."
 }, {
-  "id": 50,
+  "pokemonId": 50,
   "pokedex": "#050",
   "evolution": {
     "stage": 0,
@@ -1149,7 +1149,7 @@
   },
   "flavor-text": "Diglett are raised in most farms. The reason is simple—wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables."
 }, {
-  "id": 51,
+  "pokemonId": 51,
   "pokedex": "#051",
   "evolution": {
     "stage": 1,
@@ -1172,7 +1172,7 @@
   },
   "flavor-text": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly."
 }, {
-  "id": 52,
+  "pokemonId": 52,
   "pokedex": "#052",
   "evolution": {
     "stage": 0,
@@ -1195,7 +1195,7 @@
   },
   "flavor-text": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light."
 }, {
-  "id": 53,
+  "pokemonId": 53,
   "pokedex": "#053",
   "evolution": {
     "stage": 1,
@@ -1218,7 +1218,7 @@
   },
   "flavor-text": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers."
 }, {
-  "id": 54,
+  "pokemonId": 54,
   "pokedex": "#054",
   "evolution": {
     "stage": 0,
@@ -1241,7 +1241,7 @@
   },
   "flavor-text": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars."
 }, {
-  "id": 55,
+  "pokemonId": 55,
   "pokedex": "#055",
   "evolution": {
     "stage": 1,
@@ -1264,7 +1264,7 @@
   },
   "flavor-text": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. The Pokémon is definitely much faster than even the most athletic swimmer."
 }, {
-  "id": 56,
+  "pokemonId": 56,
   "pokedex": "#056",
   "evolution": {
     "stage": 0,
@@ -1287,7 +1287,7 @@
   },
   "flavor-text": "When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath."
 }, {
-  "id": 57,
+  "pokemonId": 57,
   "pokedex": "#057",
   "evolution": {
     "stage": 1,
@@ -1310,7 +1310,7 @@
   },
   "flavor-text": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time."
 }, {
-  "id": 58,
+  "pokemonId": 58,
   "pokedex": "#058",
   "evolution": {
     "stage": 0,
@@ -1333,7 +1333,7 @@
   },
   "flavor-text": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things."
 }, {
-  "id": 59,
+  "pokemonId": 59,
   "pokedex": "#059",
   "evolution": {
     "stage": 1,
@@ -1356,7 +1356,7 @@
   },
   "flavor-text": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power."
 }, {
-  "id": 60,
+  "pokemonId": 60,
   "pokedex": "#060",
   "evolution": {
     "stage": 0,
@@ -1379,7 +1379,7 @@
   },
   "flavor-text": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it."
 }, {
-  "id": 61,
+  "pokemonId": 61,
   "pokedex": "#061",
   "evolution": {
     "stage": 1,
@@ -1402,7 +1402,7 @@
   },
   "flavor-text": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle."
 }, {
-  "id": 62,
+  "pokemonId": 62,
   "pokedex": "#062",
   "evolution": {
     "stage": 2,
@@ -1425,7 +1425,7 @@
   },
   "flavor-text": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort."
 }, {
-  "id": 63,
+  "pokemonId": 63,
   "pokedex": "#063",
   "evolution": {
     "stage": 0,
@@ -1448,7 +1448,7 @@
   },
   "flavor-text": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety."
 }, {
-  "id": 64,
+  "pokemonId": 64,
   "pokedex": "#064",
   "evolution": {
     "stage": 1,
@@ -1471,7 +1471,7 @@
   },
   "flavor-text": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a trainer of this Pokémon."
 }, {
-  "id": 65,
+  "pokemonId": 65,
   "pokedex": "#065",
   "evolution": {
     "stage": 2,
@@ -1494,7 +1494,7 @@
   },
   "flavor-text": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead."
 }, {
-  "id": 66,
+  "pokemonId": 66,
   "pokedex": "#066",
   "evolution": {
     "stage": 0,
@@ -1517,7 +1517,7 @@
   },
   "flavor-text": "Machop's muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans."
 }, {
-  "id": 67,
+  "pokemonId": 67,
   "pokedex": "#067",
   "evolution": {
     "stage": 1,
@@ -1540,7 +1540,7 @@
   },
   "flavor-text": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger."
 }, {
-  "id": 68,
+  "pokemonId": 68,
   "pokedex": "#068",
   "evolution": {
     "stage": 2,
@@ -1563,7 +1563,7 @@
   },
   "flavor-text": "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks."
 }, {
-  "id": 69,
+  "pokemonId": 69,
   "pokedex": "#069",
   "evolution": {
     "stage": 0,
@@ -1586,7 +1586,7 @@
   },
   "flavor-text": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron."
 }, {
-  "id": 70,
+  "pokemonId": 70,
   "pokedex": "#070",
   "evolution": {
     "stage": 1,
@@ -1609,7 +1609,7 @@
   },
   "flavor-text": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground."
 }, {
-  "id": 71,
+  "pokemonId": 71,
   "pokedex": "#071",
   "evolution": {
     "stage": 2,
@@ -1632,7 +1632,7 @@
   },
   "flavor-text": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole."
 }, {
-  "id": 72,
+  "pokemonId": 72,
   "pokedex": "#072",
   "evolution": {
     "stage": 0,
@@ -1655,7 +1655,7 @@
   },
   "flavor-text": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea."
 }, {
-  "id": 73,
+  "pokemonId": 73,
   "pokedex": "#073",
   "evolution": {
     "stage": 1,
@@ -1678,7 +1678,7 @@
   },
   "flavor-text": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it."
 }, {
-  "id": 74,
+  "pokemonId": 74,
   "pokedex": "#074",
   "evolution": {
     "stage": 0,
@@ -1701,7 +1701,7 @@
   },
   "flavor-text": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always."
 }, {
-  "id": 75,
+  "pokemonId": 75,
   "pokedex": "#075",
   "evolution": {
     "stage": 1,
@@ -1724,7 +1724,7 @@
   },
   "flavor-text": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis."
 }, {
-  "id": 76,
+  "pokemonId": 76,
   "pokedex": "#076",
   "evolution": {
     "stage": 2,
@@ -1747,7 +1747,7 @@
   },
   "flavor-text": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below."
 }, {
-  "id": 77,
+  "pokemonId": 77,
   "pokedex": "#077",
   "evolution": {
     "stage": 0,
@@ -1770,7 +1770,7 @@
   },
   "flavor-text": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent."
 }, {
-  "id": 78,
+  "pokemonId": 78,
   "pokedex": "#078",
   "evolution": {
     "stage": 1,
@@ -1793,7 +1793,7 @@
   },
   "flavor-text": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph."
 }, {
-  "id": 79,
+  "pokemonId": 79,
   "pokedex": "#079",
   "evolution": {
     "stage": 0,
@@ -1816,7 +1816,7 @@
   },
   "flavor-text": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge."
 }, {
-  "id": 80,
+  "pokemonId": 80,
   "pokedex": "#080",
   "evolution": {
     "stage": 1,
@@ -1839,7 +1839,7 @@
   },
   "flavor-text": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead."
 }, {
-  "id": 81,
+  "pokemonId": 81,
   "pokedex": "#081",
   "evolution": {
     "stage": 0,
@@ -1862,7 +1862,7 @@
   },
   "flavor-text": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box."
 }, {
-  "id": 82,
+  "pokemonId": 82,
   "pokedex": "#082",
   "evolution": {
     "stage": 1,
@@ -1885,7 +1885,7 @@
   },
   "flavor-text": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon."
 }, {
-  "id": 83,
+  "pokemonId": 83,
   "pokedex": "#083",
   "evolution": {
     "stage": 0,
@@ -1908,7 +1908,7 @@
   },
   "flavor-text": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks."
 }, {
-  "id": 84,
+  "pokemonId": 84,
   "pokedex": "#084",
   "evolution": {
     "stage": 0,
@@ -1931,7 +1931,7 @@
   },
   "flavor-text": "Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps."
 }, {
-  "id": 85,
+  "pokemonId": 85,
   "pokedex": "#085",
   "evolution": {
     "stage": 1,
@@ -1954,7 +1954,7 @@
   },
   "flavor-text": "Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary-it may decide to peck you."
 }, {
-  "id": 86,
+  "pokemonId": 86,
   "pokedex": "#086",
   "evolution": {
     "stage": 0,
@@ -1977,7 +1977,7 @@
   },
   "flavor-text": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head."
 }, {
-  "id": 87,
+  "pokemonId": 87,
   "pokedex": "#087",
   "evolution": {
     "stage": 1,
@@ -2000,7 +2000,7 @@
   },
   "flavor-text": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago."
 }, {
-  "id": 88,
+  "pokemonId": 88,
   "pokedex": "#088",
   "evolution": {
     "stage": 0,
@@ -2023,7 +2023,7 @@
   },
   "flavor-text": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater."
 }, {
-  "id": 89,
+  "pokemonId": 89,
   "pokedex": "#089",
   "evolution": {
     "stage": 1,
@@ -2046,7 +2046,7 @@
   },
   "flavor-text": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid."
 }, {
-  "id": 90,
+  "pokemonId": 90,
   "pokedex": "#090",
   "evolution": {
     "stage": 0,
@@ -2069,7 +2069,7 @@
   },
   "flavor-text": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out."
 }, {
-  "id": 91,
+  "pokemonId": 91,
   "pokedex": "#091",
   "evolution": {
     "stage": 1,
@@ -2092,7 +2092,7 @@
   },
   "flavor-text": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system."
 }, {
-  "id": 92,
+  "pokemonId": 92,
   "pokedex": "#092",
   "evolution": {
     "stage": 0,
@@ -2115,7 +2115,7 @@
   },
   "flavor-text": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind."
 }, {
-  "id": 93,
+  "pokemonId": 93,
   "pokedex": "#093",
   "evolution": {
     "stage": 1,
@@ -2138,7 +2138,7 @@
   },
   "flavor-text": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away."
 }, {
-  "id": 94,
+  "pokemonId": 94,
   "pokedex": "#094",
   "evolution": {
     "stage": 2,
@@ -2161,7 +2161,7 @@
   },
   "flavor-text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow."
 }, {
-  "id": 95,
+  "pokemonId": 95,
   "pokedex": "#095",
   "evolution": {
     "stage": 0,
@@ -2184,7 +2184,7 @@
   },
   "flavor-text": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother."
 }, {
-  "id": 96,
+  "pokemonId": 96,
   "pokedex": "#096",
   "evolution": {
     "stage": 0,
@@ -2207,7 +2207,7 @@
   },
   "flavor-text": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat you dream through your nostrils."
 }, {
-  "id": 97,
+  "pokemonId": 97,
   "pokedex": "#097",
   "evolution": {
     "stage": 1,
@@ -2230,7 +2230,7 @@
   },
   "flavor-text": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum."
 }, {
-  "id": 98,
+  "pokemonId": 98,
   "pokedex": "#098",
   "evolution": {
     "stage": 0,
@@ -2253,7 +2253,7 @@
   },
   "flavor-text": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory."
 }, {
-  "id": 99,
+  "pokemonId": 99,
   "pokedex": "#099",
   "evolution": {
     "stage": 1,
@@ -2276,7 +2276,7 @@
   },
   "flavor-text": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires."
 }, {
-  "id": 100,
+  "pokemonId": 100,
   "pokedex": "#100",
   "evolution": {
     "stage": 0,
@@ -2299,7 +2299,7 @@
   },
   "flavor-text": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery."
 }, {
-  "id": 101,
+  "pokemonId": 101,
   "pokedex": "#101",
   "evolution": {
     "stage": 1,
@@ -2322,7 +2322,7 @@
   },
   "flavor-text": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity."
 }, {
-  "id": 102,
+  "pokemonId": 102,
   "pokedex": "#102",
   "evolution": {
     "stage": 0,
@@ -2345,7 +2345,7 @@
   },
   "flavor-text": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution."
 }, {
-  "id": 103,
+  "pokemonId": 103,
   "pokedex": "#103",
   "evolution": {
     "stage": 1,
@@ -2368,7 +2368,7 @@
   },
   "flavor-text": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute."
 }, {
-  "id": 104,
+  "pokemonId": 104,
   "pokedex": "#104",
   "evolution": {
     "stage": 0,
@@ -2391,7 +2391,7 @@
   },
   "flavor-text": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds."
 }, {
-  "id": 105,
+  "pokemonId": 105,
   "pokedex": "#105",
   "evolution": {
     "stage": 1,
@@ -2414,7 +2414,7 @@
   },
   "flavor-text": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken."
 }, {
-  "id": 106,
+  "pokemonId": 106,
   "pokedex": "#106",
   "evolution": {
     "stage": 0,
@@ -2437,7 +2437,7 @@
   },
   "flavor-text": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue."
 }, {
-  "id": 107,
+  "pokemonId": 107,
   "pokedex": "#107",
   "evolution": {
     "stage": 1,
@@ -2460,7 +2460,7 @@
   },
   "flavor-text": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity."
 }, {
-  "id": 108,
+  "pokemonId": 108,
   "pokedex": "#108",
   "evolution": {
     "stage": 0,
@@ -2483,7 +2483,7 @@
   },
   "flavor-text": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things."
 }, {
-  "id": 109,
+  "pokemonId": 109,
   "pokedex": "#109",
   "evolution": {
     "stage": 0,
@@ -2506,7 +2506,7 @@
   },
   "flavor-text": "If Koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body. This Pokémon may also overinflate its round body, then explode."
 }, {
-  "id": 110,
+  "pokemonId": 110,
   "pokedex": "#110",
   "evolution": {
     "stage": 1,
@@ -2529,7 +2529,7 @@
   },
   "flavor-text": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash."
 }, {
-  "id": 111,
+  "pokemonId": 111,
   "pokedex": "#111",
   "evolution": {
     "stage": 0,
@@ -2552,7 +2552,7 @@
   },
   "flavor-text": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however."
 }, {
-  "id": 112,
+  "pokemonId": 112,
   "pokedex": "#112",
   "evolution": {
     "stage": 1,
@@ -2575,7 +2575,7 @@
   },
   "flavor-text": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch."
 }, {
-  "id": 113,
+  "pokemonId": 113,
   "pokedex": "#113",
   "evolution": {
     "stage": 0,
@@ -2598,7 +2598,7 @@
   },
   "flavor-text": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite."
 }, {
-  "id": 114,
+  "pokemonId": 114,
   "pokedex": "#114",
   "evolution": {
     "stage": 0,
@@ -2621,7 +2621,7 @@
   },
   "flavor-text": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day."
 }, {
-  "id": 115,
+  "pokemonId": 115,
   "pokedex": "#115",
   "evolution": {
     "stage": 0,
@@ -2644,7 +2644,7 @@
   },
   "flavor-text": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you."
 }, {
-  "id": 116,
+  "pokemonId": 116,
   "pokedex": "#116",
   "evolution": {
     "stage": 0,
@@ -2667,7 +2667,7 @@
   },
   "flavor-text": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away."
 }, {
-  "id": 117,
+  "pokemonId": 117,
   "pokedex": "#117",
   "evolution": {
     "stage": 1,
@@ -2690,7 +2690,7 @@
   },
   "flavor-text": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it."
 }, {
-  "id": 118,
+  "pokemonId": 118,
   "pokedex": "#118",
   "evolution": {
     "stage": 0,
@@ -2713,7 +2713,7 @@
   },
   "flavor-text": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn."
 }, {
-  "id": 119,
+  "pokemonId": 119,
   "pokedex": "#119",
   "evolution": {
     "stage": 1,
@@ -2736,7 +2736,7 @@
   },
   "flavor-text": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful."
 }, {
-  "id": 120,
+  "pokemonId": 120,
   "pokedex": "#120",
   "evolution": {
     "stage": 0,
@@ -2759,7 +2759,7 @@
   },
   "flavor-text": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky."
 }, {
-  "id": 121,
+  "pokemonId": 121,
   "pokedex": "#121",
   "evolution": {
     "stage": 1,
@@ -2782,7 +2782,7 @@
   },
   "flavor-text": "Starmie's center section-the core-glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"the gem of the sea.\""
 }, {
-  "id": 122,
+  "pokemonId": 122,
   "pokedex": "#122",
   "evolution": {
     "stage": 0,
@@ -2805,7 +2805,7 @@
   },
   "flavor-text": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real."
 }, {
-  "id": 123,
+  "pokemonId": 123,
   "pokedex": "#123",
   "evolution": {
     "stage": 0,
@@ -2828,7 +2828,7 @@
   },
   "flavor-text": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke."
 }, {
-  "id": 124,
+  "pokemonId": 124,
   "pokedex": "#124",
   "evolution": {
     "stage": 0,
@@ -2851,7 +2851,7 @@
   },
   "flavor-text": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing."
 }, {
-  "id": 125,
+  "pokemonId": 125,
   "pokedex": "#125",
   "evolution": {
     "stage": 0,
@@ -2874,7 +2874,7 @@
   },
   "flavor-text": "When a storm arrives, gangs of this Pokémon compete with each other to scale cms that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods."
 }, {
-  "id": 126,
+  "pokemonId": 126,
   "pokedex": "#126",
   "evolution": {
     "stage": 0,
@@ -2897,7 +2897,7 @@
   },
   "flavor-text": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings."
 }, {
-  "id": 127,
+  "pokemonId": 127,
   "pokedex": "#127",
   "evolution": {
     "stage": 0,
@@ -2920,7 +2920,7 @@
   },
   "flavor-text": "Pinsir is astoundingly strong. It can grip a foe weighing twice its kg in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places."
 }, {
-  "id": 128,
+  "pokemonId": 128,
   "pokedex": "#128",
   "evolution": {
     "stage": 0,
@@ -2943,7 +2943,7 @@
   },
   "flavor-text": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself."
 }, {
-  "id": 129,
+  "pokemonId": 129,
   "pokedex": "#129",
   "evolution": {
     "stage": 0,
@@ -2966,7 +2966,7 @@
   },
   "flavor-text": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it."
 }, {
-  "id": 130,
+  "pokemonId": 130,
   "pokedex": "#130",
   "evolution": {
     "stage": 1,
@@ -2989,7 +2989,7 @@
   },
   "flavor-text": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature."
 }, {
-  "id": 131,
+  "pokemonId": 131,
   "pokedex": "#131",
   "evolution": {
     "stage": 0,
@@ -3012,7 +3012,7 @@
   },
   "flavor-text": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain."
 }, {
-  "id": 132,
+  "pokemonId": 132,
   "pokedex": "#132",
   "evolution": {
     "stage": 0,
@@ -3035,7 +3035,7 @@
   },
   "flavor-text": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong."
 }, {
-  "id": 133,
+  "pokemonId": 133,
   "pokedex": "#133",
   "evolution": {
     "stage": 0,
@@ -3058,7 +3058,7 @@
   },
   "flavor-text": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve."
 }, {
-  "id": 134,
+  "pokemonId": 134,
   "pokedex": "#134",
   "evolution": {
     "stage": 1,
@@ -3082,7 +3082,7 @@
   },
   "flavor-text": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water."
 }, {
-  "id": 135,
+  "pokemonId": 135,
   "pokedex": "#135",
   "evolution": {
     "stage": 1,
@@ -3106,7 +3106,7 @@
   },
   "flavor-text": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles."
 }, {
-  "id": 136,
+  "pokemonId": 136,
   "pokedex": "#136",
   "evolution": {
     "stage": 1,
@@ -3130,7 +3130,7 @@
   },
   "flavor-text": "Flareon's fluffy fur has a functional purpose-it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit."
 }, {
-  "id": 137,
+  "pokemonId": 137,
   "pokedex": "#137",
   "evolution": {
     "stage": 0,
@@ -3153,7 +3153,7 @@
   },
   "flavor-text": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying."
 }, {
-  "id": 138,
+  "pokemonId": 138,
   "pokedex": "#138",
   "evolution": {
     "stage": 0,
@@ -3176,7 +3176,7 @@
   },
   "flavor-text": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell."
 }, {
-  "id": 139,
+  "pokemonId": 139,
   "pokedex": "#139",
   "evolution": {
     "stage": 1,
@@ -3199,7 +3199,7 @@
   },
   "flavor-text": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous."
 }, {
-  "id": 140,
+  "pokemonId": 140,
   "pokedex": "#140",
   "evolution": {
     "stage": 0,
@@ -3222,7 +3222,7 @@
   },
   "flavor-text": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years."
 }, {
-  "id": 141,
+  "pokemonId": 141,
   "pokedex": "#141",
   "evolution": {
     "stage": 1,
@@ -3245,7 +3245,7 @@
   },
   "flavor-text": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs."
 }, {
-  "id": 142,
+  "pokemonId": 142,
   "pokedex": "#142",
   "evolution": {
     "stage": 0,
@@ -3268,7 +3268,7 @@
   },
   "flavor-text": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times."
 }, {
-  "id": 143,
+  "pokemonId": 143,
   "pokedex": "#143",
   "evolution": {
     "stage": 0,
@@ -3291,7 +3291,7 @@
   },
   "flavor-text": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play."
 }, {
-  "id": 144,
+  "pokemonId": 144,
   "pokedex": "#144",
   "evolution": {
     "stage": 0,
@@ -3314,7 +3314,7 @@
   },
   "flavor-text": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall."
 }, {
-  "id": 145,
+  "pokemonId": 145,
   "pokedex": "#145",
   "evolution": {
     "stage": 0,
@@ -3337,7 +3337,7 @@
   },
   "flavor-text": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts."
 }, {
-  "id": 146,
+  "pokemonId": 146,
   "pokedex": "#146",
   "evolution": {
     "stage": 0,
@@ -3360,7 +3360,7 @@
   },
   "flavor-text": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."
 }, {
-  "id": 147,
+  "pokemonId": 147,
   "pokedex": "#147",
   "evolution": {
     "stage": 0,
@@ -3383,7 +3383,7 @@
   },
   "flavor-text": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels."
 }, {
-  "id": 148,
+  "pokemonId": 148,
   "pokedex": "#148",
   "evolution": {
     "stage": 1,
@@ -3406,7 +3406,7 @@
   },
   "flavor-text": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail."
 }, {
-  "id": 149,
+  "pokemonId": 149,
   "pokedex": "#149",
   "evolution": {
     "stage": 2,
@@ -3429,7 +3429,7 @@
   },
   "flavor-text": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land."
 }, {
-  "id": 150,
+  "pokemonId": 150,
   "pokedex": "#150",
   "evolution": {
     "stage": 0,
@@ -3452,7 +3452,7 @@
   },
   "flavor-text": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart."
 }, {
-  "id": 151,
+  "pokemonId": 151,
   "pokedex": "#151",
   "evolution": {
     "stage": 0,
