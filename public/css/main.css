@@ -36,7 +36,8 @@ body {
     text-align: center;
     justify-content: center;
     border-radius: 3px;
-    border: 1px solid #2a323a;
+    border: 1px solid #f5f5f5;
+    background-color: #2b3645;
 }
 .flex-type {
     font-family: Monospaced, sans-serif;

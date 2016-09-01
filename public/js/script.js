@@ -1,6 +1,6 @@
 (function(){
+//noinspection JSUnresolvedVariable
 function capitalizeFirstLetter(string) {
-    //noinspection JSUnresolvedFunction
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
@@ -17,7 +17,6 @@ $.get(pokemonUrl, function (data) {
                              <img class="pokeImg" src="../img/Pokemon/215x215/${el.pokedex.slice(1)}.png" alt="${el.pokedex}">
                             `;
         } else {
-            //noinspection JSUnresolvedVariable
             div.innerHTML = `${el.pokedex}<br> ${el.evolution.names[el.evolution.stage]}<br>
                              <img class="pokeImg" src="../img/Pokemon/215x215/${el.pokedex.slice(1)}.png" alt="${el.pokedex}">
                             `;
