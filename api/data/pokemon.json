@@ -736,7 +736,7 @@
   "flavor-text": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice."
 }, {
   "pokemonId": 33,
-  "pokedex": "033",
+  "pokedex": "#033",
   "evolution": {
     "stage": 1,
     "names": ["Nidoran♂", "Nidorino", "Nidoking"]

@@ -3,7 +3,6 @@ html {
     min-height: 100%;
 }
 body {
-    /* Margin bottom by footer height */
     margin-bottom: 90px;
 }
 .padded {
@@ -13,11 +12,43 @@ body {
     position: absolute;
     bottom: 0;
     width: 100%;
-    /* Set the fixed height of the footer here */
     height: 90px;
     background-color: #f5f5f5;
     padding-top: 20px;
 }
 .footer-img {
     height: 28px;
+}
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+.flex-pokemon {
+    font-family: Monospaced, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    width: 15%;
+    margin: 0 0 10px 1.428571428571429%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 3px;
+    border: 1px solid #2a323a;
+}
+.flex-type {
+    font-family: Monospaced, sans-serif;
+    font-size: 28px;
+    padding: 5px;
+    width: 15%;
+    margin: 0 0 10px 1.428571428571429%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 3px;
+    border: 1px solid #2a323a;
+}
+.pokeImg {
+    width: 80%;
 }

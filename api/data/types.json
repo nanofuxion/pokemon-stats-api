@@ -1,108 +1,135 @@
 [{
   "typeId": 0,
   "name": "bug",
+  "bgcolor": "lime",
+  "txtcolor": "#333333",
   "super-effective": ["dark", "grass", "psychic"],
   "not-very-effective": ["fairy", "fighting", "fire", "flying", "ghost", "poison", "steel"],
   "moves": ["Bug Bite", "Bug Buzz", "Fury Cutter", "Megahorn", "Signal Beam", "Struggle", "X-Scissor"]
 }, {
   "typeId": 1,
   "name": "dark",
+  "bgcolor": "#666666",
   "super-effective": ["ghost", "psychic"],
   "not-very-effective": ["dark", "fairy", "fighting"],
   "moves": ["Dark Pulse", "Bite", "Feint Attack", "Sucker Punch", "Night Slash"]
 }, {
   "typeId": 2,
   "name": "dragon",
+  "bgcolor": "#6b2de8",
   "super-effective": ["dragon"],
   "not-very-effective": ["steel"],
   "moves": ["Dragon Breath", "Dragon Claw", "Dragon Pulse", "Twister"]
 }, {
   "typeId": 3,
   "name": "electric",
+  "bgcolor": "yellow",
+  "txtcolor": "#cc0000",
   "super-effective": ["flying", "water"],
   "not-very-effective": ["dragon", "electric", "grass"],
   "moves": ["Discharge", "Spark", "Thunder", "Thunder Punch", "Thunder Shock", "Thunder Bolt"]
 }, {
   "typeId": 4,
   "name": "fairy",
+  "bgcolor": "#e8b6e6",
+  "txtcolor": "#aa1edb",
   "super-effective": ["dark", "dragon", "fighting"],
   "not-very-effective": ["fire", "poison", "steel"],
   "moves": ["Dazzling Gleam", "Disarming Voice", "Draining Kiss", "Moonblast", "Play Rough"]
 }, {
   "typeId": 5,
   "name": "fighting",
+  "bgcolor": "#cc0000",
+  "txtcolor": "yellow",
   "super-effective": ["dark", "ice", "normal", "rock", "steel"],
   "not-very-effective": ["bug", "fairy", "flying", "poison", "psychic"],
   "moves": ["Brick Break", "Cross Chop", "Karate Chop", "Low Kick", "Low Sweep", "Rock Smash", "Submission"]
 }, {
   "typeId": 6,
   "name": "fire",
+  "bgcolor": "#ff9900",
   "super-effective": ["bug", "grass", "ice", "steel"],
   "not-very-effective": ["dragon", "fire", "rock", "water"],
   "moves": ["Ember", "Fire Blast", "Fire Fang", "Fire Punch", "Flame Burst", "Flame Charge", "Flame Wheel", "Flamethrower", "Heat Wave"]
 }, {
   "typeId": 7,
   "name": "flying",
+  "bgcolor": "#a978c9",
   "super-effective": ["bug", "fighting", "grass"],
   "not-very-effective": ["electric", "rock", "steel"],
   "moves": ["Aerial Ace", "Air Cutter", "Drill Peck", "Hurricane", "Peck", "Wing Attack"]
 }, {
   "typeId": 8,
   "name": "ghost",
+  "bgcolor": "#8e7cc3",
   "super-effective": ["ghost", "psychic"],
   "not-very-effective": ["dark"],
   "moves": ["Lick", "Ominous Wings", "Shadow Ball", "Shadow Claw"]
 }, {
   "typeId": 9,
   "name": "grass",
+  "bgcolor": "#38761d",
   "super-effective": ["ground", "rock", "water"],
   "not-very-effective": ["bug", "dragon", "fire", "flying", "grass", "poison", "steel"],
   "moves": ["Leaf Blade", "Petal Blizzard", "Power Whip", "Razor Leaf", "Seed Bomb", "Solar Beam", "Vine Whip"]
 }, {
   "typeId": 10,
   "name": "ground",
+  "bgcolor": "#cbba8f",
+  "txtcolor": "#333333",
   "super-effective": ["electric", "fire", "poison", "rock", "steel"],
   "not-very-effective": ["bug", "flying", "grass"],
   "moves": ["Bone Club", "Bulldoze", "Dig", "Drill Run", "Earthquake", "Mud Bomb", "Mud Shot", "Mud Slap"]
 }, {
   "typeId": 11,
   "name": "ice",
+  "bgcolor": "#12d4e7",
+  "txtcolor": "#1f5de8",
   "super-effective": ["dragon", "flying", "grass", "ground"],
   "not-very-effective": ["fire", "ice", "steel", "water"],
   "moves": ["Blizzard", "Frost Breath", "Ice Beam", "Ice Punch", "Ice Shard", "Ice Wind"]
 }, {
   "typeId": 12,
   "name": "normal",
+  "bgcolor": "#b0ac9c",
+  "txtcolor": "#333333",
   "super-effective": [],
   "not-very-effective": ["rock", "steel"],
   "moves": ["Body Slam", "Horn Attack", "Hyper Beam", "Hyper Fang", "Pound", "Quick Attack", "Scratch", "Stomp", "Swift", "Tackle", "Vice Grip", "Wrap"]
 }, {
   "typeId": 13,
   "name": "poison",
+  "bgcolor": "#9900ff",
   "super-effective": ["fairy", "grass"],
   "not-very-effective": ["ghost", "ground", "poison", "rock"],
   "moves": ["Acid", "Cross Poison", "Gunk Shot", "Poison Fang", "Poison Jab", "Poison Sting", "Sludge", "Sludge Bomb", "Sludge Wave"]
 }, {
   "typeId": 14,
   "name": "psychic",
+  "bgcolor": "#aa1edb",
   "super-effective": ["fighting", "poison"],
   "not-very-effective": ["psychic", "steel"],
   "moves": ["Confusion", "Psybeam", "Psychic", "Psycho Cut", "Psyshock", "Zen Headbutt"]
 }, {
   "typeId": 15,
   "name": "rock",
+  "bgcolor": "#b6946d",
+  "txtcolor": "#333333",
   "super-effective": ["bug", "fire", "flying", "ice"],
   "not-very-effective": ["fighting", "ground", "steel"],
   "moves": ["Ancient Power", "Power Gem", "Rock Slide", "Rock Throw", "Rock Tomb", "Stone Edge"]
 }, {
   "typeId": 16,
   "name": "steel",
+  "bgcolor": "#bcbcbc",
+  "txtcolor": "#333333",
   "super-effective": ["fairy", "ice", "rock"],
   "not-very-effective": ["electric", "fire", "steel", "water"],
   "moves": ["Bullet Punch", "Flash Cannon", "Iron Head", "Magnet Bomb", "Metal Claw", "Steel Wing"]
 }, {
   "typeId": 17,
   "name": "water",
+  "bgcolor": "#1f5de8",
   "super-effective": ["fire", "ground", "rock"],
   "not-very-effective": ["dragon", "grass", "water"],
   "moves": ["Aqua Jet", "Aqua Tail", "Brine", "Bubble", "Bubble Beam", "Hydro Pump", "Scald", "Splash", "Water Gun", "Water Pulse"]
