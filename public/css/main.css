@@ -29,7 +29,7 @@ body {
 }
 .flex-pokemon {
     font-family: Monospaced, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 5px;
     width: 15%;
     margin: 0 0 10px 1.428571428571429%;
@@ -38,6 +38,17 @@ body {
     border-radius: 3px;
     border: 1px solid #f5f5f5;
     background-color: #2b3645;
+}
+.flex-move {
+    font-family: Monospaced, sans-serif;
+    font-size: 12px;
+    padding: 5px;
+    width: 15%;
+    margin: 0 0 10px 1.428571428571429%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 3px;
+    border: 1px solid #2b3645;
 }
 .flex-type {
     font-family: Monospaced, sans-serif;
@@ -50,6 +61,7 @@ body {
     border-radius: 3px;
     border: 1px solid #2a323a;
 }
+
 .pokeImg {
     width: 80%;
 }

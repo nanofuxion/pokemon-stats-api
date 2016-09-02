@@ -6,6 +6,7 @@ function capitalizeFirstLetter(string) {
 
 var pokemonUrl = 'http://localhost:8080/api/pokemon';
 var typesUrl = 'http://localhost:8080/api/types';
+var movesUrl = 'http://localhost:8080/api/moves';
 
 $.get(pokemonUrl, function (data) {
     data.forEach(function (el) {
@@ -25,6 +26,19 @@ $.get(pokemonUrl, function (data) {
 
         document.getElementById('pokemon').appendChild(div);
     })
+});
+
+$.get(movesUrl, function (data) {
+
+    data.forEach(function (el) {
+        var div = document.createElement('div');
+        div.className = 'flex-move';
+        div.innerHTML = el.name;
+        document.getElementById('moves').appendChild(div);
+
+    })
+
+
 });
 
 $.get(typesUrl, function (data) {
