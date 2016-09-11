@@ -7,6 +7,12 @@ var routes = require('./api/routes');
 
 app.set('port', (process.env.PORT || 8080));
 
+app.all('/', function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "X-Requested-With");
+  next();
+ });
+
 app.use(function (req, res, next) {
     console.log(req.method, req.url);
     next();
