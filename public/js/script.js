@@ -4,9 +4,9 @@ function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-var pokemonUrl = 'http://localhost:8080/api/pokemon' || 'https://pokemon-stats-api.herokuapp.com/api/pokemon';
-var typesUrl = 'http://localhost:8080/api/types';
-var movesUrl = 'http://localhost:8080/api/moves';
+var pokemonUrl = 'https://pokemon-stats-api.herokuapp.com/api/pokemon';
+var typesUrl = 'https://pokemon-stats-api.herokuapp.com/api/types';
+var movesUrl = 'https://pokemon-stats-api.herokuapp.com/api/moves';
 
 $.get(pokemonUrl, function (data) {
     data.forEach(function (el) {
