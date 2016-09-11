@@ -15,7 +15,7 @@ $.get(pokemonUrl, function (data) {
         if(Array.isArray(el.evolution.names[el.evolution.stage])){
             div.innerHTML = `${el.pokedex}<br> 
                              ${el.evolution.names[el.evolution.stage][el.evolution.variation]}<br>
-                             <img class="pokeImg" src="../img/Pokemon/215x215/${el.pokedex.slice(1)}.png" alt="${el.pokedex}">
+                             <img class="pokeImg" src="https://res.cloudinary.com/arturio1970/image/upload/v1472563118/pokemon-120/${el.pokedex.slice(1)}.png" alt="${el.pokedex}">
                             `;
         } else {
             div.innerHTML = `${el.pokedex}<br> ${el.evolution.names[el.evolution.stage]}<br>
