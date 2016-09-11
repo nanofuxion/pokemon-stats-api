@@ -5,7 +5,7 @@ var path = require('path');
 
 var routes = require('./api/routes');
 
-app.set('port', 8080);
+app.set('port', (process.env.PORT || 8080));
 
 app.use(function (req, res, next) {
     console.log(req.method, req.url);
