@@ -1,3 +1,7 @@
+## original code by https://github.com/puupa
+#### forked for https://github.com/vpdsgnz/project1
+
+
 #Pokemon Go Statistics API
 ##URI's
 http://localhost:8080/api/pokemon
