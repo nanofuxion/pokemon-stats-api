@@ -1,5 +1,5 @@
 ## original code by https://github.com/puupa
-#### forked for https://github.com/vpdsgnz/project1
+#### forked for use with https://github.com/vpdsgnz/project1
 
 
 #Pokemon Go Statistics API
